@@ -16,3 +16,5 @@ Filen `kvpolls.csv` indeholder data fra de respektive meningsmålinger der er la
  - `n` = Stikprøvestørrelsen
  - `dato` = Data for hvornår dataindsamlingen sluttede (i ISO 8601 format, `YYYY-MM-DD`)
  - `valg_2017` = Opbakning til partiet ved kommunalvalget i 2017
+ - `valgvindsprognose_2021` = Opbakning til partiet i [Valgvindsprognose 2021](https://www.mm.dk/artikel/ny-model-spaar-vaelgernes-kryds-i-alle-kommuner)
+ 
